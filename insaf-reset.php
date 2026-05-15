@@ -4,7 +4,7 @@
  * Plugin URI: #
  * Description: Full WordPress reset plugin. Drops all database tables, reinstalls WordPress from scratch, creates admin user (admin/pass), and cleans all content.
  * Version: 2.0.0
- * Author: Insaf Dev
+ * Author: Rabbi Hasan Emon
  * License: GPL v2 or later
  */
 
